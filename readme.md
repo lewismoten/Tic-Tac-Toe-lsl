@@ -28,4 +28,4 @@ The goal of the game is to get three marks in a row, column, or diagonal. Any em
 
 Prims: 1
 
-Note: The alias "[Dedric Mauriac](https://my.secondlife.com/dedric.mauriac)" is the avatar name for "Lewis Moten".
+Note: The alias [Dedric Mauriac](https://my.secondlife.com/dedric.mauriac) is the avatar name for [Lewis Moten](//github.com/lewismoten).
