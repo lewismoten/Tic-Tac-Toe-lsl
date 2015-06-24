@@ -16,7 +16,7 @@ This game has four different levels of play: easy, normal, hard, and impossible.
 
 To start a game, a player can walk up and touch the bottom panel, or any of the empty cells. Once a game starts, no one else may interact with the game. If the player walks away, or does not complete the game after five minutes, the game times out and becomes available.
 
-The goal of the game is to get three marks in a row, column, or diagonal. Any empty cell that the player touches while the game is in play will be marked with an X. The AI takes a turn afterwards and places an O in another empty cell. The game continues until the grid is full, or the goal is met. Once the game is over, the game will wait five seconds before clearing the board. At this time, someone may start a new game or change the difficulty level.
+The goal of the game is to get three marks in a row, column, or diagonal. Any empty cell that the player touches while the game is in play will be marked with an "X". The AI takes a turn afterwards and places an "O" in another empty cell. The game continues until the grid is full, or the goal is met. Once the game is over, the game will wait five seconds before clearing the board. At this time, someone may start a new game or change the difficulty level.
 
 | Version | Notes                     |
 | ------- | ------------------------- |
@@ -27,3 +27,5 @@ The goal of the game is to get three marks in a row, column, or diagonal. Any em
 | 1.0     | Initial build             |
 
 Prims: 1
+
+Note: The alias "[Dedric Mauriac](https://my.secondlife.com/dedric.mauriac)" is the avatar name for "Lewis Moten".
