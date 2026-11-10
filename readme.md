@@ -1,3 +1,5 @@
+![Tic-Tac-Toe-lsl: Tic-tac-toe prim in Second Life](docs/images/social-preview.png)
+
 #Tic-Tac-Toe
 
 Play a simple childs game of tic-tac-toe
